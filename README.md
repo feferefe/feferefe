@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Fernanda Rodrigues
 
-Atualmente atuo como **Analista de Qualidade (QA)** utilizando a ferramenta Cypress para a automatização dos teste. Minha paixão por garantir que sistemas funcionem com perfeição me motivou a dar o próximo passo: aprender a construí-los.
+Atualmente atuo como **Analista de Qualidade (QA)** utilizando a ferramenta Cypress para a automatização dos testes. Minha paixão por garantir que sistemas funcionem com perfeição me motivou a dar o próximo passo: aprender a construí-los.
 
 Estou no início da minha jornada como desenvolvedora de software. Acredito que minha mentalidade de QA, focada em detalhes, usabilidade e robustez, é um grande trunfo para escrever um código limpo e eficiente.
 
@@ -80,7 +80,8 @@ Estou no início da minha jornada como desenvolvedora de software. Acredito que 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="300px" 
+    width="338px"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=feferefe&show_icons=true&theme=jolly&include_all_commits=true&locale=pt-br" 
   />
@@ -88,7 +89,8 @@ Estou no início da minha jornada como desenvolvedora de software. Acredito que 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="300px" 
+      width="300px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=feferefe&theme=jolly&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
